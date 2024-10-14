@@ -6,15 +6,15 @@ body
     justify-content: center;
     align-items: center;
    min-height: 100vh; 
-    min-width: 45%;
+    min-width: 60%;
     background-color: #ffffff;
     
     
 }
 
 .container{
-    width: 45%;
-    height: 50vh;
+    min-width: 60%;
+    min-height: 50vh;
     padding: 10px;
     background-color: rgb(207, 199, 202);
     border-radius: 8px;
